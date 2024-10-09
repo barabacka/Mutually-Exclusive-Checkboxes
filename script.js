@@ -1,3 +1,4 @@
+//V1.0: logical function
 previous1 = false;
 previous2 = false;
 
